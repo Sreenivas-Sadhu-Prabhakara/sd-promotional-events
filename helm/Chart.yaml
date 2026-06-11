@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-promotional-events
+description: "BIAN Service Domain: Promotional Events (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Marketing"
+  bian/asset-type: "Promotional Event"
+  bian/control-record: "Promotional Event Operating Session"
